@@ -1,0 +1,64 @@
+header {
+    text-align: left;
+    background-color: rgb(137, 253, 137);
+}
+
+nav {
+    background-color: rgb(255, 153, 0);
+    padding: 20px;
+}
+
+.page {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    height: auto;
+    width: auto;
+}
+
+.mainPage {
+    background-color: rgba(188, 188, 189, 0.527);
+    height: auto;
+    width: 65%;
+    align-items: center;
+}
+
+.mainPage h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.table {
+    font-size: 18px;
+}
+
+.table td {
+    padding: 12px 15px;
+    font-size: 18px;
+}
+
+.sidePage {
+    background-color: rgb(59, 200, 255);
+    height: auto;
+    width: 35%;
+    display: flex;
+    padding: 20px;
+    display: inline-block;
+}
+
+.sidePage h1 {
+    text-align: center;
+}
+
+.sidePage h3 {
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(134, 149, 158);
+}
+
+footer tr {
+    text-align: center;
+}
